@@ -1,0 +1,27 @@
+body { 
+  background: #111; 
+  color: white; 
+  text-align: center; 
+  font-family: Arial, sans-serif; 
+  margin: 0;
+  padding: 20px;
+}
+#container { 
+  margin-top: 50px; 
+  font-size: 24px; 
+}
+iframe { 
+  width: 90%; 
+  height: 300px; 
+  border: none; 
+  margin-top: 20px; 
+}
+button { 
+  margin: 10px; 
+  padding: 12px 24px; 
+  font-size: 18px; 
+  background: #ff4081;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
